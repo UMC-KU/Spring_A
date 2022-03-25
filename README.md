@@ -24,7 +24,7 @@ UMC 2기 SpringBoot 스터디 A팀
 민민 - 
 ![스크린샷(551)](https://user-images.githubusercontent.com/38430523/160151756-adf86b70-fc40-4eb6-817b-fcaa14cc40c2.png)
 
-찜니 - 
+찜니 - Lv 1 애기코더의 스펙타클 개발여정 - 그 첫번째 시작 .. UMC
 
 모치모치 - 
 
@@ -35,6 +35,6 @@ UMC 2기 SpringBoot 스터디 A팀
 
 민민 - ENTJ / 안녕하세요 컴공 4학년 곽민정입니다. 개발 빼고 다 좋아했는데, 갑자기 재밌네요. 그래서 개발자 해보려구요
 
-찜니 - ENFP/ESFP
+찜니 - ENFP/ESFP / yo K-지민 저엉말 생겼고 , 그리고 춤도 잘 추고~ 뭐리부터 발 끝까지 완벽해! 그게바로 perfect 그게바로 인쉥의 진리쥐~ . 네 사환공 18 김지민입니다.
 
 모치모치 - ISFP
