@@ -19,7 +19,7 @@ UMC 2기 SpringBoot 스터디 A팀
 ### Kick Off 한마디
 제리 - 에이스가 되어서 나가겠습니다 ^^
 
-뀰 - 아직 모르는 게 너무 많지만 다양하게 많이 배워가고 싶습니다 Spring A 화이팅:bangbang:
+뀰 - 아직 모르는 게 너무 많지만 다양하게 많이 배워가고 싶습니다 Spring A 화이팅:bangbang:   
 
 민민 - 
 ![스크린샷(551)](https://user-images.githubusercontent.com/38430523/160151756-adf86b70-fc40-4eb6-817b-fcaa14cc40c2.png)
