@@ -24,7 +24,7 @@ UMC 2기 SpringBoot 스터디 A팀
 민민 - 
 ![스크린샷(551)](https://user-images.githubusercontent.com/38430523/160151756-adf86b70-fc40-4eb6-817b-fcaa14cc40c2.png)
 
-찜니 - Lv 1 애기코더의 스펙타클 개발여정 - 그 첫번째 시작 .. UMC
+찜니 - Lv 1 애기코더의 스펙타클 개발여정 - 그 첫번째 시작 .. UMC 
 
 모치모치 - 
 
