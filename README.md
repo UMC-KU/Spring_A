@@ -15,6 +15,11 @@ UMC 2기 SpringBoot 스터디 A팀
 |1주차|2022/03/18|Server 서버개요|
 |2주차|2022/03/25|Server 포트포워딩 & AWS|
 |3주차|2022/04/01|Server 임대로 리눅스 환경구축|
+|4주차|2022/04/07|Server Database 이론 및 설계|
+|5주차|2022/04/15|Server Database 실전|
+|6주차|2022/04/29|Server Restful API 와 Framework|
+|7주차|2022/05/06|Server Framework 사용하기|
+
 
 
 ### Kick Off 한마디
